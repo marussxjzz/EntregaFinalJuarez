@@ -1,0 +1,8 @@
+@mixin curiosidades {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
